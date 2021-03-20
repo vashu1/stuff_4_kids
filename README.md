@@ -1,6 +1,10 @@
 # stuff_4_kids
 Stuff that could be interesting to parents.
 
+## [3D-printing](./3d_printing/README.md)
+
+Toys to print.
+
 ## [Maps](./google_maps/README.md)
 
 Make high resolution planimetric and sattelite maps with Google Maps data.
