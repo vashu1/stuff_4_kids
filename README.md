@@ -1,6 +1,10 @@
 # stuff_4_kids
 Stuff that could be interesting to parents.
 
+## [Anaglyph](./anaglyph/README.md)
+
+Red and blue glasses that allow te get 3D effect on any display or paper.
+
 ## [3D-printing](./3d_printing/README.md)
 
 Toys to print.
