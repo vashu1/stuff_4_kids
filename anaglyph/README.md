@@ -4,8 +4,6 @@ Buy some glasses from ebay for a couple of dollars and use pictures from [wiki p
 
 Some videos:
 
-[Source file for problems.](./hashi_simple_problems.drawio)
-
 [10 min animation.](https://www.youtube.com/watch?v=e00N024D7Lg)
 [Another animation.](https://www.youtube.com/watch?v=eddCBeA38FY)
 
