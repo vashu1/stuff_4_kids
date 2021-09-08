@@ -8,7 +8,9 @@
 
 [Toy thermometer](https://www.thingiverse.com/thing:4545579)
 
-#### Recommended designs
+### Recommended designs
+
+##### Rush hour table game: [1](https://www.thingiverse.com/thing:4323441) [2](https://www.thingiverse.com/thing:4845304)
 
 ##### Boomerangs: 
 
