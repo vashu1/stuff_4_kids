@@ -5,6 +5,12 @@ Stuff that could be interesting to parents.
 
 I could not find really easy [hashi(bridges)](https://en.wikipedia.org/wiki/Hashiwokakero) problems, so I made some myself.
 
+## tangram
+
+Links for tangram problems.
+- [Problems without hints.](https://www.woojr.com/printable-tangrams-animal-puzzles/)
+- [Problems split by level.](https://www.tangram-channel.com/tangram-puzzles/letters-numbers-signs-easy/) **TODO** write a script to reformat those to save ink
+
 # Separate repos
 
 ## [arduino_morse](https://github.com/vashu1/arduino_morse)
