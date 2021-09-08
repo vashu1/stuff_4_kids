@@ -1,6 +1,6 @@
 [go back](../README.md)
 
-You can make print detailed local maps based on Google Maps and Google sattelite images.
+You can make print detailed local/global maps based on Google Maps and Google sattelite images.
 
 To download high resolution scrinshot with Google Map Customizer created by Aaron Cheng and FireShot Google Chrome extension use [this instruction](https://www.bpwebs.com/print-a-large-google-map-larger-than-the-screen/)
 

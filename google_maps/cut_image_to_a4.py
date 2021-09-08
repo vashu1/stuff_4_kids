@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-import cv2
+import cv2 # pip3 install opencv-python
 import os
 
 A4 = (210, 297)
