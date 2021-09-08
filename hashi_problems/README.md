@@ -4,9 +4,13 @@ Print on A4 with "Scale to fit" option.
 
 ![](./hashi_simple_problems.png)
 
+![](./hashi_simple_problems2.png)
+
 Made in online service [`Diagram Editor`](https://www.diagrameditor.com/) (no registration, minimum ads).
 
 [Source file for problems.](./hashi_simple_problems.drawio)
+
+[Template for new problems](./template.drawio)
 
 ## Mobile
 
