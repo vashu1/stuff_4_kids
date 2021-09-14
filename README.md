@@ -23,6 +23,8 @@ Links for tangram problems.
 - [Problems without hints.](https://www.woojr.com/printable-tangrams-animal-puzzles/)
 - [Problems split by level.](https://www.tangram-channel.com/tangram-puzzles/letters-numbers-signs-easy/) **TODO** write a script to reformat those to save ink
 
+## [Rubik's snake tutorials](https://www.youtube.com/c/AntoineSnakePuzzleTutorials8/videos)
+
 # Separate repos
 
 ## [arduino_morse](https://github.com/vashu1/arduino_morse)
