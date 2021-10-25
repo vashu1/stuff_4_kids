@@ -1,6 +1,9 @@
 # stuff_4_kids
 Stuff that could be interesting to parents.
 
+spirals https://www.youtube.com/watch?v=7_wP0728vHM ?
+https://www.shikaiderman.com/craft
+
 ## [Anaglyph](./anaglyph/README.md)
 
 Red and blue glasses that allow te get 3D effect on any display or paper.
@@ -24,6 +27,10 @@ Links for tangram problems.
 - [Problems split by level.](https://www.tangram-channel.com/tangram-puzzles/letters-numbers-signs-easy/) **TODO** write a script to reformat those to save ink
 
 ## [Rubik's snake tutorials](https://www.youtube.com/c/AntoineSnakePuzzleTutorials8/videos)
+
+## [Shooting](./shooting/README.md)
+
+Collection of unusual shooting devices.
 
 # Separate repos
 
